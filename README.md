@@ -1,89 +1,116 @@
-# Hi there, I'm Pratham 👋
+<h1 align="center">Hi 👋, I'm Pratham</h1>
 
-🎓 3rd Year AI & Data Science Student at NMAM Institute of Technology  
-💻 Full Stack Developer | AI & ML Enthusiast  
-🚀 Passionate about building intelligent and practical real-world applications  
-📍 India
+<h3 align="center">
+AI & Data Science Student | Full Stack Developer | AI & ML Enthusiast
+</h3>
+
+<p align="center">
+"Building intelligent applications through AI, ML and Full Stack Development."
+</p>
+
+<p align="center">
+  <a href="https://github.com/prathamprabhu05">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://instagram.com/prathamprabhu99">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram">
+  </a>
+
+  <a href="mailto:pratham.prabhu@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
 # 🚀 About Me
 
-- 🌱 Currently learning Full Stack Development, Artificial Intelligence, and Machine Learning
-- 🧠 Interested in AI, ML, Web Development, and Database Systems
-- 💻 Exploring React, FastAPI, MongoDB, and Modern Web Technologies
-- 🤖 Interested in Deep Learning, Computer Vision, and AI-powered applications
-- 🎯 Goal: Become a skilled AI/ML Engineer and Full Stack Developer
+- 🎓 3rd Year AI & Data Science Student
+- 💻 Full Stack Developer
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌱 Currently learning Deep Learning and Advanced Web Technologies
+- ⚡ Passionate about building smart real-world applications
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-## Languages
-- Python
-- Java
-- JavaScript
-- C
-- SQL
+<table align="center">
+<tr>
+<td align="center" width="300">
 
-## Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
+### Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
-## Backend
-- FastAPI
-- Node.js
-- Express.js
+</td>
 
-## AI & ML
+<td align="center" width="300">
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+
+</td>
+
+<td align="center" width="300">
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤖 AI & ML Interests
+
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- NumPy
-- Pandas
-
-## Database
-- MongoDB
-- MySQL
-
-## Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-
----
-
-# 📚 Currently Learning
-
-- Advanced React
-- Machine Learning Models
-- Deep Learning
-- API Development
-- Database Optimization
-- System Design
+- Data Analysis
+- Neural Networks
+- AI-Powered Web Applications
 
 ---
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamprabhu05&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamprabhu05&layout=compact)
-
----
-
-# 🤝 Connect With Me
-
-- GitHub: https://github.com/prathamprabhu05
-- Instagram: https://instagram.com/prathamprabhu99
-- Email: pratham.prabhu@yahoo.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamprabhu05&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamprabhu05&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# 🌐 Connect With Me
 
-I enjoy combining AI, Machine Learning, and Full Stack Development to build smart and useful applications 🚀
+<p align="center">
+  <a href="https://github.com/prathamprabhu05">
+    <img src="https://img.shields.io/badge/GitHub-prathamprabhu05-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://instagram.com/prathamprabhu99">
+    <img src="https://img.shields.io/badge/Instagram-prathamprabhu99-pink?style=for-the-badge&logo=instagram">
+  </a>
+
+  <a href="mailto:pratham.prabhu@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-pratham.prabhu@yahoo.com-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
