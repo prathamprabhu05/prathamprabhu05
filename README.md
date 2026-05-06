@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pratham</h1>
+<h1 align="center">Hi 👋, I'm Pratham Prabhu</h1>
 
 <h3 align="center">
-AI & Data Science Student | Full Stack Developer | AI & ML Enthusiast
+AI & Data Science Engineering Student | Full Stack Developer | AI & ML Enthusiast
 </h3>
 
 <p align="center">
-"Building intelligent applications through AI, ML and Full Stack Development."
+Student at NMAM Institute of Technology pursuing Artificial Intelligence & Data Science Engineering
 </p>
 
 <p align="center">
@@ -14,23 +14,27 @@ AI & Data Science Student | Full Stack Developer | AI & ML Enthusiast
   </a>
 
   <a href="https://instagram.com/prathamprabhu99">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-@prathamprabhu99-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <a href="mailto:pratham.prabhu@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-- 🎓 3rd Year AI & Data Science Student
-- 💻 Full Stack Developer
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌱 Currently learning Deep Learning and Advanced Web Technologies
-- ⚡ Passionate about building smart real-world applications
+<p align="justify">
+
+I am an Artificial Intelligence & Data Science Engineering student at <b>NMAM Institute of Technology</b> with a strong interest in Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy building modern web applications and exploring intelligent systems that solve practical real-world problems.
+
+My primary areas of interest include AI-powered applications, Machine Learning, Deep Learning, and scalable web technologies. I am continuously improving my skills in frontend and backend development while also exploring data-driven technologies and computer vision concepts.
+
+I am passionate about learning emerging technologies, developing innovative projects, and strengthening my problem-solving and software development skills.
+
+</p>
 
 ---
 
@@ -38,33 +42,24 @@ AI & Data Science Student | Full Stack Developer | AI & ML Enthusiast
 
 <table align="center">
 <tr>
-<td align="center" width="300">
+<td align="center" width="33%">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,mysql" />
 
 </td>
 
-<td align="center" width="300">
+<td align="center" width="33%">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+### Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,css" />
 
 </td>
 
-<td align="center" width="300">
+<td align="center" width="33%">
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,figma,postman" />
 
 </td>
 </tr>
@@ -72,24 +67,20 @@ AI & Data Science Student | Full Stack Developer | AI & ML Enthusiast
 
 ---
 
-# 🤖 AI & ML Interests
+# 🤖 AI & Machine Learning Interests
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Analysis
-- Neural Networks
-- AI-Powered Web Applications
+<div align="center">
 
----
+| Domain | Areas of Interest |
+|---|---|
+| 🤖 Artificial Intelligence | Intelligent Systems & Automation |
+| 🧠 Machine Learning | Predictive Models & Data-Driven Solutions |
+| 👁️ Computer Vision | Face Recognition & Image Processing |
+| 📊 Data Analytics | Data Visualization & Insights |
+| ⚡ Full Stack AI Applications | AI Integrated Web Solutions |
+| 🔬 Deep Learning | Neural Networks & Modern AI Architectures |
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamprabhu05&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamprabhu05&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+</div>
 
 ---
 
@@ -97,20 +88,20 @@ AI & Data Science Student | Full Stack Developer | AI & ML Enthusiast
 
 <p align="center">
   <a href="https://github.com/prathamprabhu05">
-    <img src="https://img.shields.io/badge/GitHub-prathamprabhu05-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-prathamprabhu05-181717?style=for-the-badge&logo=github">
   </a>
 
   <a href="https://instagram.com/prathamprabhu99">
-    <img src="https://img.shields.io/badge/Instagram-prathamprabhu99-pink?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-prathamprabhu99-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <a href="mailto:pratham.prabhu@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-pratham.prabhu@yahoo.com-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-pratham.prabhu@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+✨ Passionate about AI, ML and Full Stack Development ✨
 </p>
