@@ -141,18 +141,6 @@ I enjoy building scalable software, solving challenging problems, learning emerg
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathamprabhu05&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamprabhu05&theme=tokyonight" />
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
